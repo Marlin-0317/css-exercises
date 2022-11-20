@@ -1,3 +1,20 @@
 .odd {
     background-color: #ffb6c1;
+    font-family: Verdana, DejaVu, sans-serif;
+
+}
+
+.cool {
+    font-size: 24px;
+}   
+
+#big {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#crazy {
+    color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
 }
